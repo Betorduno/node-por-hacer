@@ -1,6 +1,6 @@
-## Ejercicio del curso de node 
+# Ejercicio del curso de node 
 
-# comandos necesario para ejecutar la aplicación
+### comandos necesario para ejecutar la aplicación
 
 ```
 npm install
